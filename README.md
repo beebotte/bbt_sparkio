@@ -1,4 +1,8 @@
-bbt_sparkio_example
-===================
+About
+=====
 
-Connecting a Sparkio to Beebotte
+This example shows how Beebotte API can be used to leg daata from Sparkio.
+
+License
+=======
+MIT
